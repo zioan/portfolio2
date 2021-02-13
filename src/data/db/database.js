@@ -87,9 +87,9 @@ const database = {
     },
     {
       id: 4,
-      title: "NiKola Tesla",
+      title: "Nikola Tesla",
       subtitle:
-        "NiKola Tesla life in a nice JavaScript web application. Non-responsive design.",
+        "Nikola Tesla life in a nice JavaScript web application. Non-responsive design.",
       github: "https://github.com/zioan/tesla",
       imageUrl: "/images/tesla.png",
       url: "https://tesla-javascript.netlify.app",
