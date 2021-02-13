@@ -107,7 +107,7 @@ const database = {
       title: "Ioan Zaharia personal Portfolio",
       subtitle: "My personal portfolio is made with React.js and Bootstrap.",
       github: "https://github.com/zioan/movie-app",
-      imageUrl: "/images/movie.png",
+      imageUrl: "/images/portfolio.png",
       url: "https://ioanzaharia.com",
     },
     {
