@@ -36,8 +36,8 @@ function About() {
                   I am <span className="color-theme">{information.name}</span>
                 </h3>
                 <p>
-                  I am a frontend web developer. I can provide clean code and
-                  pixel perfect design.
+                  I am a self-taught front-end web developer willing to step
+                  into the field and change my career.
                 </p>
                 <ul>
                   {!information.name ? null : (
@@ -76,9 +76,9 @@ function About() {
                     </li>
                   )}
                 </ul>
-                <a href={information.cvfile} className="mi-button">
+                {/* <a href={information.cvfile} className="mi-button">
                   Download CV
-                </a>
+                </a> */}
               </div>
             </div>
           </div>

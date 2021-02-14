@@ -3,8 +3,7 @@ import Mock from "../mock";
 const database = {
   information: {
     name: "Ioan Zaharia",
-    aboutContent:
-      "I am a frontend web developer. I can provide clean code and pixel perfect design.",
+    aboutContent: "I code dreams into reality. I am a frontend web developer.",
     age: 34,
     phone: "",
     nationality: "Romanian",
@@ -23,7 +22,6 @@ const database = {
     },
     brandImage: "/images/me2.png",
     aboutImage: "/images/me3.jpg",
-    aboutImageLg: "/images/me3.jpg",
     cvfile: "/files/empty.pdf",
   },
   skills: [
