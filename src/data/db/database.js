@@ -5,7 +5,7 @@ const database = {
     name: "Ioan Zaharia",
     aboutContent: "I code dreams into reality. I am a frontend web developer.",
     age: 34,
-    phone: "",
+    phone: "(+49) 015171641545",
     nationality: "Romanian",
     language: "German, English, Italian, Romanian",
     email: "zaharia.ioan@gmail.com",
@@ -114,7 +114,7 @@ const database = {
       subtitle: "More code and projects can be found on my Github profile.",
       github: "https://github.com/zioan",
       imageUrl: "/images/github.jpg",
-      url: "https://ioanzaharia.com",
+      url: "https://github.com/zioan",
     },
   ],
   experience: {
@@ -169,7 +169,7 @@ const database = {
     ],
   },
   contactInfo: {
-    phoneNumbers: ["+012-3456"],
+    phoneNumbers: ["(+49) 015171641545"],
     emailAddress: ["zaharia.ioan@gmail.com"],
     address: "26655 Westerstede, Germany",
   },
